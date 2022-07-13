@@ -1,0 +1,43 @@
+iframe{
+    width:100%;
+}
+
+.achievements_head{
+    padding:10px;
+    font-size:20px;
+    font-family:cursive;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.achievements_head i{
+    float:right;
+}
+.achievements_text span{
+color:rgb(255, 174, 0) ;
+}
+.football_head{
+    padding:10px;
+    font-size:20px;
+    font-family:cursive;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.football_head i{
+    float:right;
+}
+.football_text span{
+color:rgb(255, 174, 0) ;
+}
+.project_head{
+    padding:10px;
+    font-size:20px;
+    font-family:cursive;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.project_head i{
+    float:right;
+}
+.project_text span{
+color:rgb(255, 174, 0) ;
+}
